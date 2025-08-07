@@ -5,3 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 odoo:14
+postgres:12
+dpage/pgadmin4
